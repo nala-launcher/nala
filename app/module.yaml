@@ -1,8 +1,7 @@
 product: android/app
 
 dependencies:
-  - $compose.foundation
-  - $compose.material3
+  - ../ui
   - androidx.activity:activity-compose:1.8.2
   - androidx.appcompat:appcompat:1.6.1
 
