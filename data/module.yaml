@@ -7,6 +7,9 @@ dependencies:
   - androidx.sqlite:sqlite-bundled:2.5.0-alpha12
   - org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0
 
+dependencies@android:
+  - androidx.core:core-ktx:1.15.0
+
 settings:
   kotlin:
     ksp:
