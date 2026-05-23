@@ -11,7 +11,7 @@ import kotlinx.coroutines.withContext
 import AppDao
 import AppInfo
 import AppEntity
-import data.utils.IconCacheManager
+import data.cache.IconCacheManager
 
 class AppRepository(
     private val context: Context,
